@@ -1,0 +1,18 @@
+.container {
+    margin-top: 30px;
+}
+
+#hobbiesBtn ~ div.form-group {
+    margin: 5px 0;
+}
+input.form-control {
+    border: 1px solid #ccc;
+}
+
+input.ng-invalid.ng-touched {
+    box-shadow: inset 0 1px 1px rgba(65, 64, 64, 0.075), 0 0 8px rgba(235, 12, 0, 0.6);
+}
+
+.btn {
+    margin: 0 10px;
+}
